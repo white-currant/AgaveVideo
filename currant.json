@@ -1,0 +1,25 @@
+{
+  "name": "Agave Video",
+  "tagline": "Конвертер видео в ProRes, H.264, HEVC и GIF",
+  "description": [
+    "Перетащили видео или папку, выбрали формат и размер, нажали «Конвертировать». Agave Video готовит видео для монтажа: ProRes открывается и перематывается в монтажных программах без задержек.",
+    "Пишет ProRes (от Proxy до 4444), H.264 и HEVC в MP4, MOV или M4V, анимированный GIF, а также вынимает звук в WAV и M4A. Умеет уменьшать кадр и менять частоту кадров.",
+    "Кодирует сама macOS, без сторонних библиотек. Нативный SwiftUI, универсальный бинарник для Apple Silicon и Intel."
+  ],
+  "features": [
+    "ProRes 422 Proxy, LT, 422, HQ и 4444",
+    "H.264 и HEVC в MP4, MOV и M4V",
+    "GIF и звуковая дорожка в WAV или M4A",
+    "Уменьшение кадра и смена частоты кадров",
+    "Пакетная конвертация файлов и целых папок",
+    "Apple Silicon и Intel"
+  ],
+  "bundleID": "com.yulion.agavevideo",
+  "appFile": "Agave Video.app",
+  "dmgAsset": "AgaveVideo.dmg",
+  "category": "Видео",
+  "minOS": "macOS 14",
+  "accent": "3A6FC4",
+  "icon": "currant/icon.png",
+  "screenshots": []
+}
