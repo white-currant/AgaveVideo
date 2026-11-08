@@ -7,6 +7,18 @@
         <language>ru</language>
         <!-- Пункты релизов добавляются сюда скриптом Scripts/release.sh -->
         <item>
+            <title>Версия 1.0.1</title>
+            <pubDate>Sun, 08 Nov 2026 15:29:53 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/white-currant/AgaveVideo/releases/download/v1.0.1/AgaveVideo-1.0.1.zip"
+                length="2685019"
+                type="application/octet-stream"
+                sparkle:edSignature="z4OgOmpulh9Drnx3ZoIwFJWLfgcMdr7vticJQ82Y/Tll63juztnAG2xrZ97osNYjtU7S7r7MIK7n8HguS5lUAw==" />
+        </item>
+        <item>
             <title>Версия 1.0</title>
             <pubDate>Thu, 15 Oct 2026 08:45:05 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
